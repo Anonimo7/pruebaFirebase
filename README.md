@@ -24,5 +24,5 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
-Esto es para la master
+Esto es para la masterss
 
