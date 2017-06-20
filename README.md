@@ -24,5 +24,4 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
-Esto solo se sube a uno. no?
-
+Esto solo se tiene que subir a PruebasBranch
